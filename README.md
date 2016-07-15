@@ -1,0 +1,2 @@
+# loghati
+arabic
